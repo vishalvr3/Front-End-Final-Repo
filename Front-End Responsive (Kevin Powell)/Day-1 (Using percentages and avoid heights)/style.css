@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/************ Percentage VS Fixed Widths ********/
+/************ Percentages on the childs ********/
+
+/* .parent { */
+/* background-color: #23424a;
+  padding: 50px; */
+
+/* width: 900px; */
+/* margin: 0 auto;
+  width: 80%; */
+
+/* overflow: hidden; */
+/* } */
+
+/* .child { */
+/* background-color: hsl(184, 68%, 54%); */
+/* normally i wouldn't include 
+  a height. It's just to get us started .*/
+
+/* width: 750px; */ /*Avoid fixed width*/
+/* width: 50%;
+
+  height: 250px; */
+/* } */
+
+/********* Why it's good idea to avoid heights *******/
+.container {
+  background-color: #23424a;
+  color: #fff;
+
+  width: 80%;
+  margin: 0 auto;
+
+  padding: 5em;
+  /* height: 300px; */
+}

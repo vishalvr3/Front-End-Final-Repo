@@ -1,0 +1,34 @@
+**********🔴🔴🔴🔴 ABOUT "Front-End-Final-Repo" 🔴🔴🔴🔴 **********
+
+👉🏻 "Front-End-Final-Repo" is created.
+    This Repository will particulary contain my front-end learning from the time the repo got created.
+
+👉🏻 Gonna include Folders for topics-
+                  💻 HTML learning
+                  💻 CSS (custom) Learning
+                  💻 Responsive CSS Learning
+                  💻 "Desktop screen" and "Mobile Screen" web page layouts
+                  💻 Responsive webpage layouts for different screen sizes
+                  💻 Tailwind CSS Learning
+                  💻 React JS Learning
+
+
+*******📁📁📁📁 FOLDER INSIDE REPO DETAILS 📂📂📂📂**************
+📂Front-End Responsive (Kevin Powell)-
+                  ✒ It's "21-day Responsive Webpage layout learning" by Kevin Powell.
+                  ✒ Link- https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts
+
+
+******************* DAY-01 ********************
+📂Front-End Responsive (Kevin Powell)-
+                  📝 Lecture- 
+                            Day 1 || Using percentages & avoiding heights
+                  📝 Challenge-
+                            i) set the child element's width to half of it's parent element, but not using fixed units.
+                            ii) Cancel the text overflow from the container.
+                              (just remove the height value)
+                  📝 NOTES-
+                            ✒ webiste is responive by default
+                            ✒ Restrict using Fixed units (px).
+                            ✒ Use % , rem  and em units.
+                            ✒ It's good idea to avoid heights.
